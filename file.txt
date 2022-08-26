@@ -1,1 +1,6 @@
-hello
+git init - 1 раз
+git remote add origin <ssh-ссылка>
+
+git add .
+git commit -m '<сообщение>'
+git push origin main/master
